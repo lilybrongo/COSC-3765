@@ -1,0 +1,1 @@
+pistolpete:x:1001:1001::/home/pistolpete:/bin/sh
